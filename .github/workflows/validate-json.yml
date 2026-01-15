@@ -1,4 +1,4 @@
-name: Validate JSON
+name: validate-json-schema
 
 on:
   workflow_dispatch:
@@ -31,7 +31,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Validate JSON schema
-        uses: atlassian/json-schema-validator-action@v1
+        uses: docker://erbom/json-schema-validator:latest
         with:
-          schema-file: 'data/schema.json'
-          data-file: 'data/students.json'
+          schema: 'data/schema.json'
+          json: 'data/students.json'
