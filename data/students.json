@@ -1,42 +1,7 @@
 [
   {
-    "name": "Zainab Mansour",
-    "cohort": 1,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Zainab"
-  },
-  {
-    "name": "Omar Al-Farsi",
+    "name": "Your Name Here",
     "cohort": 2,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Omar"
-  },
-  {
-    "name": "Layla Hassan",
-    "cohort": 1,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Layla"
-  },
-  {
-    "name": "Youssef Ibrahim",
-    "cohort": 3,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Youssef"
-  },
-  {
-    "name": "Mariam Rashid",
-    "cohort": 2,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Mariam"
-  },
-  {
-    "name": "Kareem Najjar",
-    "cohort": 1,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Kareem"
-  },
-  {
-    "name": "Nadia Saeed",
-    "cohort": 3,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Nadia"
-  },
-  {
-    "name": "Tariq Al-Mansouri",
-    "cohort": 2,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Tariq"
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Your+Name"
   }
 ]
