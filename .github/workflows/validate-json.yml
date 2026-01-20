@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - main
+      - students
+      - sample
     paths:
       - "data/students.json"
 
